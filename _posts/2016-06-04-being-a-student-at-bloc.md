@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking an online coding bootcamp
+title: Doing an online coding bootcamp
 tags: [career, trends]
 ---
 
