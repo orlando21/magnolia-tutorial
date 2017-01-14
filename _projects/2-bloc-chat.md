@@ -121,4 +121,4 @@ This project provided the opportunity to get into the mechanics of using a third
 
 As always in coursework there are time constraints. Had I had more time, I would have added user authentication (in Firebase) and made improvements to scrolling when the space taken by messages exceeds the length of the viewport.
 
-As it was, I could take the knowledge gained here and apply in my Capstone project [Angular Help Viewer](http://gregbabb.com/projects/3-help-viewer).
+As it was, I could take the knowledge gained here and apply in [Angular Help Viewer](http://gregbabb.com/projects/3-help-viewer).

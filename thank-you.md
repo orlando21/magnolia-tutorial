@@ -6,4 +6,4 @@ feature-img: "img/sample_feature_img_2.png"
 hide: true
 ---
 
-Thanks for your message. We'll get back to you!
+We'll get back to you!

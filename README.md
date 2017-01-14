@@ -1,3 +1,3 @@
 ### Greg's Site
 
-Coming soon!
+Portfolio and blog.
