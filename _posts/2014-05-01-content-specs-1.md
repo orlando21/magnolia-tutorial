@@ -26,4 +26,4 @@ Good product documentation is focused on users, so you should start with users' 
 - Who is the audience? This is the toughest part, because technical writers can seldom meet with customers. But you are writing for them, so it’s necessary to do research about personas such as their technical expertise, education level, attitudes toward the product, etc. If more than one target audience exists, then you should segment these accordingly.
 - What are the constraints pertaining to the documentation, if any? Examples of constraints are policies, rules, customs or assumptions. The fact your document or user assistance might be translated into eight languages afterwards might limit the amount of callout text to insert in screenshots.
 
-[Using content specifications, part 2](http://gregbabb.com/2014-05-02-content-specs-2.md)
+[Using content specifications, part 2](http://gregbabb.com/2014-05-02-content-specs-2.md/)

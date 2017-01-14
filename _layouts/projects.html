@@ -1,0 +1,69 @@
+---
+layout: base
+---
+
+{% include header.html type="projects" %}
+
+<div class="container">
+
+    {% for project in site.projects %}
+    <article class="project-row">
+        <div hidden>{% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}</div>
+        <div class="project-container">
+
+            {% if thecycle == "even" %}
+            <span class="project-block">
+                <img class="project-img" src="{{ project.thumbnail-path }}" alt="{{ project.title }}" />
+            </span>
+            <span class="project-block">
+                <div class="project-line"></div>
+            <ul class="info">
+                <li><h2 class="project-title">{{ project.title }}</h2></li>
+                <li><p>{{ project.short-description }}</p></li>
+                <li><p>{% if project.demo-url %}<a href="{{ project.demo-url }}" target="_blank">Demo</a>
+                    {% if project.github-repository or project.url %}
+                     |
+                    {% endif %}{% endif %}
+                {% if project.github-repository %}
+                    <a href="https://github.com/{{project.github-repository}}" target="_blank">Repo</a>
+                    {% if project.url %}
+                    |
+                    {% endif %}{% endif %}
+                {% if project.url %}
+                <a href="{{ project.url | prepend: site.baseurl }}" target="_blank">Case study</a>
+                {% endif %}</p></li>
+            </ul>
+           </span>
+            {% else %}
+            <span class="project-block">
+                <div class="project-line"></div>
+                <ul class="info">
+                    <li><h2 class="project-title">{{ project.title }}</h2></li>
+                    <li><p>{{ project.short-description }}</p></li>
+                    <li><p>{% if project.demo-url %}<a href="{{ project.demo-url }}" target="_blank">Demo</a>
+                        {% if project.github-repository or project.url %}
+                        |
+                        {% endif %}{% endif %}
+                        {% if project.github-repository %}
+                        <a href="https://github.com/{{project.github-repository}}" target="_blank">Repo</a>
+                        {% if project.url %}
+                        |
+                        {% endif %}{% endif %}
+                        {% if project.url %}
+                        <a href="{{ project.url | prepend: site.baseurl }}" target="_blank">Case study</a>
+                        {% endif %}</p></li>
+                </ul>
+            </span>
+            <span class="project-block">
+                <img class="project-img" src="{{ project.thumbnail-path }}" alt="{{ project.title }}" />
+            </span>
+            {% endif %}
+
+        </div>
+
+    </article>
+    {% endfor %}
+
+</div>
+
+

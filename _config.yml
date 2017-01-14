@@ -23,8 +23,9 @@ description: Welcome!
 
 # List of links in the navigation bar
 navbar-links:
-  Portfolio: "portfolio"
+  Projects: "projects"
   About Me: "aboutme"
+  Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -98,10 +99,15 @@ url-pretty: "gregbabb.com"  # eg. "deanattali.com/beautiful-jekyll"
 # Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
 
+# Collections
+collections:
+  projects:
+    output: true
+
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Switzerland/Zurich"
+timezone: "Europe/Amsterdam"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

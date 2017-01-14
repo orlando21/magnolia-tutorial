@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Doing an online coding bootcamp
+title: My deep dive into open source
 tags: [career, trends]
 ---
 
-After some time deliberating on the importance of frontend technologies to technical communication, I finally decided to take an online coding bootcamp. I took Bloc's [Frontend Development](https://www.bloc.io/frontend-development-bootcamp) with the 16 week option. My day job was less than full time, which was helpful.
+I took Bloc's [Frontend Development](https://www.bloc.io/frontend-development-bootcamp) with the 16 week option. My day job was less than full time, which was helpful.
 
 Before signing up, I researched a number of options. As I'm not sure when I'll have time again to take an immersive half-year course, I wanted a learning experience that would offer maximum impact in terms of gaining knowledge while providing opportunities to build complex stuff. My view is that just doing programming exercises is like learning how to use a hammer and nail, while learning approaches and skills (rather than just tools) for building the facade of a small house is an entirely different undertaking.
 
@@ -26,4 +26,4 @@ After the Foundation, you can choose from any number of smaller projects to lear
 
 Reading some pages on the Bloc website about what to expect, I somehow calculated around four hours per day of frontend work. However this understated the actual amount of time I spent, which soaked up a lot of time due to debugging. Many of my searches led me to StackOverflow and its advice but I found the answers there are not always usable.
 
-My family is also very happy that my time in this course has ended.
+My family is also happy that my time in this course has ended.
