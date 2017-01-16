@@ -15,5 +15,5 @@ I'm a technical writer in the software industry, and am interested in the follow
 - Augmented/virtual reality
 - Natural language processing
 - Blockchain technologies
-- Cloud technolgies
+- Cloud
 - Entrepreneuership

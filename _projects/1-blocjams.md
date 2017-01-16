@@ -4,7 +4,7 @@ title: Bloc Jams
 thumbnail-path: "../img/bloc-jams.png"
 short-description: Bloc Jams is a Spotify clone and single page application in AngularJS that I built during my time at Bloc, a coding school. I fully ported the application from jQuery to Angular.
 github-repository: orlando21/ng-bloc-jams
-demo-url: http://ng-bloc-jams.herokuapp.com
+demo-url: https://ng-bloc-jams.herokuapp.com
 
 ---
 The Foundation portion of Bloc's [frontend development course](https://www.bloc.io/frontend-development-bootcamp) involves HTML5, CSS3, JavaScript, and jQuery to build a digital music player from the ground up. The app is built iteratively over many checkpoints starting with HTML/CSS and adding vanilla JavaScript before converting it to jQuery.

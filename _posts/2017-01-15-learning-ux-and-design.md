@@ -20,7 +20,7 @@ The result is the creation of a number of user personas, which weren't merely wr
 
 ![personas]({{ site.baseurl }}/img/persona.jpg)
 
-Personas are further honed by face-to-face interviews with users about their behaviors and routines. A company gains a kind of mental picture of potential customers through such efforts, gradually refining the picture in more detail.
+Personas are further honed by face-to-face interviews with users about their behaviors and routines. A company gains a kind of mental picture of potential customers through such efforts, gradually refining the details.
 
 From these personas you can design how users will interact with products, and start proposing features. The challenge here is deciding (and making arguments if you're in a team) which features will appeal most to these defined personas.
 
