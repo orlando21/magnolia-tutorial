@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My deep dive into open source
-tags: [career, trends]
+tags: [career]
 ---
 
 I took Bloc's [Frontend Development](https://www.bloc.io/frontend-development-bootcamp) with the 16 week option. My day job was less than full time, which was helpful.
@@ -26,4 +26,4 @@ After the Foundation, you can choose from any number of smaller projects to lear
 
 Reading some pages on the Bloc website about what to expect, I somehow calculated around four hours per day of frontend work. However this understated the actual amount of time I spent, which soaked up a lot of time due to debugging. Many of my searches led me to StackOverflow and its advice but I found the answers there are not always usable.
 
-My family is also happy that my time in this course has ended.
+The course was challenging and very rewarding. My family was nevertheless happy when it ended.
