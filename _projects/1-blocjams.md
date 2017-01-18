@@ -73,7 +73,7 @@ This project gave me the opportunity to learn about Angular concepts such as:
 4. Services (singletons) that can be accessed anywhere in the app (e.g., by controllers). An example of a service in Bloc Jams is `Fixtures.js` which contains the music albums. This service is used at various points in the app to retrieve album information and has a constant state throughout the application (e.g., there's only one global instance). Another service is `SongPlayer.js` which provides global variables such as `song.playing` to keep track of the currently playing song in the app.
 5. Common directives (both for the Angular core library and specific to UI-Router) such as `ui-view`, `ng-click` and more.
 
-The result can be seen in the [demo](http://ng-bloc-jams.herokuapp.com/).
+The result can be seen in the [demo](http://ng-bloc-jams.herokuapp.com/). Some CSS styling sadly doesn't appear in the Heroku application, such as icons for buttons on the song player.
 
 #### 3. Some features
 
