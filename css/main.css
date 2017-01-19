@@ -415,6 +415,27 @@ footer .theme-by {
     border-bottom: 1px solid #eee;
 }
 
+@media only screen and (max-width: 767px) {
+    .project-preview {
+        padding: 35px 0;
+    }
+    .project-row .project-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .project-row .project-container .project-block {
+        height: 40%;
+        margin-bottom: 0;
+    }
+    .project-row .project-container .project-line {
+        width: 60%;
+        border-top: 3px solid #e9e9e9;
+    }
+    .project-row .project-container .project-block .project-img {
+        display: none;
+    }
+}
+
 @media only screen and (min-width: 768px) {
     .project-preview {
         padding: 35px 0;

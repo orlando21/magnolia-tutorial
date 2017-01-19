@@ -50,4 +50,4 @@ Although [the site](http://gregbabb.com/product-showcase/index.html) has many li
 
 Most of my effort for this project went into the user requirements and branding. For the development phase, there were definitely some lessons learned on the wisdom of starting with a mobile first approach, as getting all your elements in order at different screen sizes can be challenging. My decision to go with CSS Grid Layout was probably overkill for such a simple page and didn't help me as much with responsiveness as I had hoped.
 
-But definitely simple frameworks for responsive landing pages are the way to go.
+Simple frameworks for responsive landing pages are the way to go.
