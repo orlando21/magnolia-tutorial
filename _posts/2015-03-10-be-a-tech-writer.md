@@ -43,5 +43,3 @@ You may ask, who would want to hire someone without experience, even for nothing
 ### Summing up
 
 These are my opinions on how to change careers into technical writing. If you’re serious about such a change, your best bet would be to consult the tech writing LinkedIn groups (where this topic seems quite popular and is a recurring one) and to network.
-
-What are your thoughts on breaking into tech writing? Would you do anything differently?

@@ -67,5 +67,3 @@ Products like Google Glass, Oculus Rift, etc., represent a post-screen world and
 
 It was interesting to learn about future directions in design in relation to new technologies in gesture control and augmented and virtual reality. As such systems become more prevalent, interaction design will be an important trend for technical communicators and user experience experts to watch.
 
-Has interaction design impacted your work yet?
-

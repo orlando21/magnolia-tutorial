@@ -17,7 +17,7 @@ baseurl: ""
 title: Greg Babb
 
 # Short description of your site
-description: Welcome!
+description: Greg Babb Projects and Blog
 
 # --- Navigation bar options --- #
 
@@ -199,3 +199,4 @@ prose:
 
 gems:
   - jekyll-paginate
+  - jekyll-sitemap

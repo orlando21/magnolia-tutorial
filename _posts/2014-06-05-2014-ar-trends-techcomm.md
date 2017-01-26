@@ -51,7 +51,3 @@ The second case study features Audi, which developed a smartphone app to provide
 ### My thoughts
 
 In the coming years a growing number of AR applications for techcomm will appear on the market. Not only must technical communicators cope with new concepts such as guided help embedded in the field of vision, but they must also focus on communicating visually. Many current approaches such as topic-based assistance should continue to be relevant, and user information for AR will be designed with simplicity in mind to address users pain points.
-
-But what will be the relationship between AR-based assistance and existing repositories of user information?
-
-Are AR applications for techcomm yet another form of user assistance, or will they redefine what “help” means? Will single sourcing still be relevant, or will AR-based help require its own repositories?

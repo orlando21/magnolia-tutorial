@@ -1,3 +1,3 @@
 ### Greg's Site
 
-Portfolio and blog.
+Blog and projects.

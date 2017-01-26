@@ -29,5 +29,3 @@ For a number of reasons, venture capital and some big-name technology companies 
 ### Areas where AR can be beneficial
 
 Despite these and other limitations, some industries are already benefitting from AR. The web abounds with case studies from the so-called "industrial AR" segment, which includes augmented maintenance and training procedures. In such environments that feature a limited scope of requirements for object recognition and graphical overlays, customized solutions can bring appropriate payoffs in efficiency and reduced costs. Applications in education also fall into such a category.
-
-What other limitations or benefits do you see with augmented reality?

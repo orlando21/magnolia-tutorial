@@ -44,5 +44,3 @@ A well-written policy document on the Work Instruction level has:
 - A glossary of commonly used and agreed on terminology. For example, if you’re describing a business process whose objective is to archive financial transactions, you should define exactly what a transaction is, its components, and its scope.
 
 Once you’ve written your policy document or set of documents, you can describe other related aspects of your organization in greater detail, by producing checklists, related templates, manuals for tools, etc. Don’t forget that the tone of your writing should reflect your business environment.
-
-How does your organization approach policy and procedure writing?

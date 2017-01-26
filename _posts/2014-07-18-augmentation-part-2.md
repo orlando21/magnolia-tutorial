@@ -59,5 +59,3 @@ Currently there are a number of industrial AR help providers, and it’s worth t
 
 [ScopeAR](http://www.scopear.com/)
 
-Do you believe industrial AR solutions will transform technical authoring? Have you seen other solutions providers in this space?
-
