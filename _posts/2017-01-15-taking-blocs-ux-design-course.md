@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Learning UX and design
+title: Taking Bloc's UX Design course
 tags: [career]
 ---
 
-After finishing the [Frontend Development](https://www.bloc.io/frontend-development-bootcamp) course, I had learned a powerful set of tools for building responsive websites. Somehow though, it seemed something was missing. Learning how to code in JavaScript, HTML, and CSS was fine and good, but what about user experience? In mid-2016 I decided to take Bloc's [UX/UI Fundamentals](https://www.bloc.io/ux-design-bootcamp), again with the 16-week option.
+After finishing the [Frontend Development](https://www.bloc.io/frontend-development-bootcamp) course, I had learned some tools for building web apps. Somehow though, it seemed something was missing. Learning how to code in JavaScript, HTML, and CSS was fine and good, but what about user experience? I decided to take Bloc's [UX/UI Fundamentals](https://www.bloc.io/ux-design-bootcamp), again with the 16-week option.
 
 To me, designers and UI experts always seemed to be part of a prestigious circle, the "UX elite." Not only was I interested in learning about prototyping and personas, but I was more than a little curious about some of the inner workings of this mysterious order.
 
