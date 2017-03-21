@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://gregbabb.com"
+# url: "http://gregbabb.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,18 +14,15 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Greg Babb
+title: Magnolia
 
 # Short description of your site
-description: Greg Babb Projects and Blog
+description: Magnolia tutorial
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  Projects: "projects"
-  About Me: "aboutme"
-  Contact: "contact"
+# navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -33,7 +30,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /img/logo-magnolia.svg
 
 # --- Footer options --- #
 
@@ -43,11 +40,12 @@ author:
   name: Greg Babb
   #  email: "me@gregbabb.com"
   #  facebook: yourname  # eg. daattali
-  github: orlando21    # eg. daattali
-  twitter: grbabb   # eg. daattali
+  bitbucket: https://git.magnolia-cms.com
+  # github: https://git.magnolia-cms.com    # eg. daattali
+  twitter: magnolia_cms   # eg. daattali
   #  reddit: yourname    # eg. daattali
-  google-plus: "101823023517828311354"   # eg. +DeanAttali or 109424658772469020925
-  linkedin: "gregbabb"  # eg. daattali
+  # google-plus: "101823023517828311354"   # eg. +DeanAttali or 109424658772469020925
+  # linkedin: "gregbabb"  # eg. daattali
   #  xing: greg.babb2821      # eg. daattali
   #  stackoverflow: yourlink  # eg. "3943160/daattali"
   #  snapchat: yourname  # eg. daattali
@@ -62,10 +60,10 @@ footer-links-active:
   facebook: false
   email: false
   twitter: true
-  google-plus: true
+  google-plus: false
   github: true
   reddit: false
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
@@ -79,7 +77,7 @@ share-links-active:
   twitter: true
   facebook: false
   google: true
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

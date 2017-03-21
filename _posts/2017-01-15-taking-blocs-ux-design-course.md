@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Taking Bloc's UX Design course
-tags: [career]
+title: Tutorial - Taking Bloc's UX Design course
+tags: [tutorials, easy]
 ---
 
 After finishing the [Frontend Development](https://www.bloc.io/frontend-development-bootcamp) course, I had learned some tools for building web apps. Somehow though, it seemed something was missing. Learning how to code in JavaScript, HTML, and CSS was fine and good, but what about user experience? I decided to take Bloc's [UX/UI Fundamentals](https://www.bloc.io/ux-design-bootcamp), again with the 16-week option.
 
 To me, designers and UI experts always seemed to be part of a prestigious circle, the "UX elite." Not only was I interested in learning about prototyping and personas, but I was more than a little curious about some of the inner workings of this mysterious order.
-
-One might say that, with both courses, I had taken Bloc's Designer career track, only I had done them backwards, as normally one takes the UX/UI course first.
 
 ### The methodology
 

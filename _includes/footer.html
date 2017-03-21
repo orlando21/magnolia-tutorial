@@ -23,6 +23,14 @@
             </a>
           </li>
           {% endif %}
+            <li>
+                <a href="https://git.magnolia-cms.com" title="Bitbucket" target="_blank">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-bitbucket fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
           {% if site.author.twitter and site.footer-links-active.twitter %}
           <li>
               <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter" target="_blank">
@@ -154,21 +162,8 @@
           </li>
           {% endif %}
         </ul>
-        <p class="copyright text-muted">
-          {{ site.author.name }}
-          &nbsp;&bull;&nbsp;
-          {{ site.time | date: '%Y' }}
-
-          {% if site.url-pretty %}
-          &nbsp;&bull;&nbsp;
-          <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-          {% endif %}
-        </p>
           <!-- Please don't remove this, keep my open source work credited :) -->
-          <p class="theme-by text-muted">
-              Theme by
-              <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-          </p>
+          <p class="theme-by text-muted">© Copyright 2017 Magnolia</p>
       </div>
     </div>
   </div>

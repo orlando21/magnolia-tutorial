@@ -1,3 +1,1 @@
-### Greg's Site
-
-Blog and projects.
+### Magnolia tutorial
