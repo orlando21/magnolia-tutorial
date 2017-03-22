@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Managing a campaign with the Campaign Manager App
+title: Managing a campaign
 tags: [tutorial, easy]
 ---
 
