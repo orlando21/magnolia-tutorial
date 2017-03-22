@@ -32,7 +32,7 @@ Before you start, read about [Personalization](https://documentation.magnolia-cm
 3. Give the campaign the name of "New Year's Eve" and click **Save changes** when you are done.
 ![Name campaign]({{ site.baseurl }}/img/name_campaign.jpg)
 
-After the campaign is created, you can add it to your pages.
+After the campaign is created, you associate it with the content of your site in the following steps.
 
 ### Add the campaign to a page<a name="add"></a>
 
