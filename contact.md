@@ -61,7 +61,7 @@ You can also add a campaign to an entire folder of images by selecting the folde
 
 ### Add a template to the campaign<a name="template"></a>
 
-1. In the app launcher, click the Standard Templating Kit bundle and the Templates icon.
+1. In the app launcher, click the Standard Templating Kit bundle and then the Templates icon.
 ![STK]({{ site.baseurl }}/img/stk.jpg)
 
 2. Under `templating-kit`, click `textImage` and then click **Add to campaign**.
@@ -94,7 +94,7 @@ You can also add a campaign to an entire folder of images by selecting the folde
 
 ### Reviewing content in the campaign<a name="review"></a>
 
-Once you have added the appropriate amount of content (pages, components, resources, etc.) to the campaign, you can review the content.
+Once you have added the appropriate amount of content (pages, components, resources, etc.) to the campaign, you can review the content before publishing it.
 
 1. In the app launcher, click the Campaign Manager icon.
 
@@ -105,11 +105,11 @@ The colored circles in the `Status` column indicate activation status of the con
 
 Note the activation colors change depending on the status of the content. For example, if a colleague edits previously published content without republishing it, the activation status changes from green (published) to yellow (modified).
 
-Click **Preview** view unpublished content (indicated by a red or yellow circle). When you are satisfied that the content is correct, click **Review** to indicate it has been reviewed. The colored circle in the `Review` column turns green and the review date is indicated.
+Click **Preview** to view unpublished content (indicated by a red or yellow circle). When you are satisfied that the content is correct, click **Review** to indicate it has been reviewed. The colored circle in the `Review` column turns green and the review date is indicated.
 
 ### Publishing the content<a name="publish"></a>
 
-Next, select the `New-Year-s-Eve` campaign again and click **Publish**. All content belonging to the campaign becomes versioned and published, and the activation status for all items is green.
+Next, select the `New-Year-s-Eve` campaign again and click **Publish**. All content belonging to the campaign becomes versioned and published, and the activation status for all items becomes green.
 ![Publish]({{ site.baseurl }}/img/publish.jpg)
 
 ### Further reading<a name="reading"></a>
